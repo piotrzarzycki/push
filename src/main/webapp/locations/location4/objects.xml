@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OBJECTS>
+	<EMPTY id="0"/>
+	<WALL id="1"/>
+	<CHARACTER id="2"/>
+	<BOX id="3" image="box1.png"/>
+	<BOX id="4" image="box2.png"/>
+	<DOOR id="d" image="door1.jpg"/>
+	<DOOR id="f" image="door2.jpg"/>
+	<QUEST id="a" image="quest1.png" pattern="quest1.txt" result="result1.txt"/>
+	<QUEST id="b" image="quest2.png" pattern="quest2.txt" result="result2.txt"/>
+	<KEY id="k" image="key1.png" doorId="d"/>
+	<KEY id="l" image="key2.png" doorId="f"/>
+	<ARROW id="r" direction="right"/>
+	
+</OBJECTS>

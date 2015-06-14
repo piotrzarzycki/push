@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OBJECTS>
+	<EMPTY id="0"/>
+	<WALL id="1"/>
+	<CHARACTER id="2"/>
+	<BOX id="3" image="box1.jpg"/>
+	<DOOR id="4" image="door1.jpg"/>
+	<QUEST id="a" image="quest1.png" pattern="quest1.txt" result="result1.txt"/>
+	<KEY id="k" image="key1.png" doorId="4"/>
+	
+</OBJECTS>
